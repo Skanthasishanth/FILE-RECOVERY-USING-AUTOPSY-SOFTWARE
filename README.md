@@ -41,26 +41,30 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
 
-![](./images/a1.png)
+<img width="612" height="421" alt="a1" src="https://github.com/user-attachments/assets/b708135b-a982-48cd-a201-7bf8d571e78e" />
 
 - Enter a **Case Name** (e.g., `Autopsy1`).  
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
 
-![](./images/a2.png)
+<img width="976" height="573" alt="a2" src="https://github.com/user-attachments/assets/d1aafe35-8191-489d-9633-c7a1d4027958" />
+
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
 
-![](./images/a3.png)
+<img width="1070" height="673" alt="a3" src="https://github.com/user-attachments/assets/64e38d5d-35b1-42ee-af04-a07705af103f" />
+
 
 - Select **Local Disk** → **next** 
 
-![](./images/a4.png)
+<img width="1070" height="667" alt="a4" src="https://github.com/user-attachments/assets/afaabfeb-e422-4f9b-abce-d8a1178f8525" />
+
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-![](./images/a5.png)
+<img width="1057" height="665" alt="a5" src="https://github.com/user-attachments/assets/aa0aea29-82bf-49e0-8aa2-e97fdb3c42d2" />
+
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
@@ -68,7 +72,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
-![](./images/a6.png)
+<img width="1915" height="745" alt="a6" src="https://github.com/user-attachments/assets/b20b9f02-1342-439c-951a-c44621474bd7" />
+
 
 <img width="1920" height="947" alt="Screenshot 2025-08-22 091716" src="https://github.com/user-attachments/assets/ed4d92b8-eddb-4ab7-8000-43b98ec6e485" />
 
